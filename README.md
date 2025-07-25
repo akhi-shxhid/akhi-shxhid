@@ -32,7 +32,7 @@
 
 ## 🧠 Key Projects
 
-### 🔹 [Tutorly](https://shahid-topaz.vercel.app/)
+### 🔹 [Tutorly](https://gettutorly.com)
 > 🧑‍🏫 AI-Powered Study Assistant — Summarize documents, generate flashcards, chat with PDFs, and more.
 
 - Built with React, Next.js, Firebase, Supabase
@@ -40,7 +40,7 @@
 - Supports summaries, flashcards, quizzes, and personal tutor mode
 - Scalable architecture deployed on Vercel
 
-### 🔹 [CloudHub](https://github.com/akhi-shxhid)
+### 🔹 [CloudHub](https://shahid-cloud-file-storage.vercel.app/)
 > ☁️ Secure cloud file storage system with user authentication and AWS integration
 
 - Built with Node.js, Express, MongoDB, AWS S3
