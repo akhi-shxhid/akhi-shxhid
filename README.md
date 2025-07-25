@@ -2,7 +2,7 @@
 
 Computer Applications Student | Web Developer | AI & Cloud Enthusiast
 
-I am currently in my final year of Bachelor's in Computer Applications (BCA) at Bangalore City University. Passionate about crafting user-friendly web experiences, I am continuously learning and growing in the ever-evolving tech industry.
+I am a recent graduate Bachelor's in Computer Applications (BCA) at Bangalore City University. Passionate about crafting user-friendly web experiences, I am continuously learning and growing in the ever-evolving tech industry.
 
 With a strong foundation in HTML, CSS, JavaScript, and hands-on experience with React and Node.js, I aim to build scalable, efficient, and interactive web applications. Additionally, I have explored cloud computing (AWS, Google Cloud) and artificial intelligence, further expanding my technical expertise.
 
