@@ -1,13 +1,17 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/akhi-shxhid/akhi-shxhid/main/wave.gif" width="40px"> 
-  Hi, I'm Shahid Afrid
-</h1>
+!-- Final Optimized README for Shahid Afrid -->
+<h1 align="center">Hi 👋, I'm Shahid Afrid 😃</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer;Full-Stack+Developer;Cloud+Solutions+Architect;Building+AI+Apps+%26+SaaS;Lifelong+Learner+%F0%9F%9A%80">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer;Full-Stack+Developer;Cloud+Solutions+Architect;Building+AI+Apps+%26+SaaS;Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer;Full-Stack+Developer;Cloud+Solutions+Architect;Building+AI+Apps+%26+SaaS;Lifelong+Learner+%F0%9F%9A%80">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer;Full-Stack+Developer;Cloud+Solutions+Architect;Building+AI+Apps+%26+SaaS;Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif" alt="Developer gif" width="400"/>
+</div>
 
 ---
 
