@@ -1,4 +1,3 @@
-!-- Final Optimized README for Shahid Afrid -->
 <h1 align="center">Hi 👋, I'm Shahid Afrid 😃</h1>
 
 <p align="center">
