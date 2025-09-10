@@ -71,6 +71,9 @@
 - Built with React, TypeScript, and Supabase for creating, sharing,
 -  managing forms with real-time validation and response collection.
 
+### 🔹 [View all projects](https://github.com/akhi-shxhid?tab=repositories) – *All repos*
+
+
 ---
 
 ## 🏅 Certifications
