@@ -1,107 +1,99 @@
-<!-- README.md for Shahid Afrid -->
-<p align="center">
-  <img src="https://github.com/akhi-shxhid/akhi-shxhid/raw/main/wave.gif" alt="👋" width="48"/>
-</p>
-
-<h1 align="center">Hi, I'm <b>Shahid Afrid</b> 👋</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/akhi-shxhid/akhi-shxhid/main/wave.gif" width="40px"> 
+  Hi, I'm Shahid Afrid
+</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Full-Stack+Developer;Cloud+Solutions+Architect;LLM+&+AI+Enthusiast&center=true&width=680&height=64">
-    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Full-Stack+Developer;Cloud+Solutions+Architect;LLM+&+AI+Enthusiast&center=true&width=680&height=64" alt="Typing SVG">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer;Full-Stack+Developer;Cloud+Solutions+Architect;Building+AI+Apps+%26+SaaS;Lifelong+Learner+%F0%9F%9A%80">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer;Full-Stack+Developer;Cloud+Solutions+Architect;Building+AI+Apps+%26+SaaS;Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG">
   </a>
 </p>
 
-<p align="center">
-  <a href="https://shahid-topaz.vercel.app" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:shahidafrid97419@gmail.com">✉️ Email</a> •
-  <span>📍 Bangalore, India</span> •
-  <strong>💼 Open to roles & collaborations</strong>
-</p>
+---
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="55%">
+  
+- 🔭 Passionate about **AI/ML & LLMs**  
+- 🌐 Portfolio: [shahid-topaz.vercel.app](https://shahid-topaz.vercel.app)  
+- 📫 Email: **shahidafrid97419@gmail.com**  
+- 📍 Based in Bangalore, India  
+- 🎯 Goal 2025: **Launch a SaaS AI product**  
+
+</td>
+<td width="45%" align="center">
+  <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif" alt="Developer gif" width="300"/>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔭 About Me
-I'm passionate about building intelligent, scalable, and user-friendly AI applications using modern LLMs and cloud-native technologies. I build end-to-end systems — frontend, backend, infra, and model integration — focused on impact and usability.
+## 🚀 Technologies & Tools
+
+**AI / ML**  
+![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,huggingface)
+
+**LLMs & Frameworks**  
+![LangChain](https://img.shields.io/badge/LangChain-005571?style=flat&logoColor=white) 
+![RAG](https://img.shields.io/badge/RAG-VectorDB-blue) 
+![Claude](https://img.shields.io/badge/Claude-111111?style=flat&logo=anthropic) 
+![Groq](https://img.shields.io/badge/Groq-FF6C37?style=flat)
+
+**Web & Backend**  
+![React](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,tailwind)
+
+**Cloud & DB**  
+![AWS](https://skillicons.dev/icons?i=aws,firebase,supabase,vercel,docker,kubernetes)  
+![Databases](https://skillicons.dev/icons?i=mongodb,postgresql)
+
+**Tools**  
+![Git](https://skillicons.dev/icons?i=git,github,vscode)
 
 ---
 
-## 🚀 What I do
-- Build AI-powered products (RAG, chat with docs, summarizers, study assistants)
-- Design cloud-native backends and scalable pipelines
-- Ship full-stack web apps with great UI/UX
-- Experiment with open-source LLMs and multimodal workflows
+## 🧠 Featured Projects
 
----
+### 🔹 [Tutorly](https://gettutorly.com) – *AI Study Assistant*
+- Summarizes documents, generates flashcards & quizzes, chats with PDFs  
+- React, Next.js, Firebase, Supabase + Claude, GPT, GROQ  
+- Deployed on Vercel, scalable architecture  
 
-## 🧰 Tech Stack
+### 🔹 [CloudHub](https://shahid-cloud-file-storage.vercel.app/) – *Secure File Storage*
+- Node.js, Express, MongoDB, AWS S3  
+- JWT authentication, encrypted uploads  
 
-**AI / LLMs**
-- OpenAI GPT, Anthropic Claude, GROQ, Mistral  
-- LangChain, RAG, Prompt Engineering, Vector DBs (Pinecone, ChromaDB)
-
-**Web / Frontend**
-- React, Next.js, Vite, Tailwind CSS
-
-**Backend / APIs**
-- Node.js, Express, FastAPI, Flask
-
-**Cloud / Infra**
-- AWS (EC2, S3, Lambda), Firebase, Supabase, Vercel, Docker, Kubernetes
-
-**Datastores & Tools**
-- MongoDB, PostgreSQL, Redis, Pinecone, ChromaDB  
-- Git, GitHub, VS Code, Jupyter, UploadThing
-
----
-
-## 🧠 Selected Projects
-
-### 🔹 [Tutorly — AI Study Assistant](https://gettutorly.com)
-AI-powered study platform that summarizes documents, creates flashcards/quizzes, and provides an interactive tutor experience.
-
-- React + Next.js frontend, Firebase & Supabase backend
-- Integrated multiple LLM APIs (Claude, GPT, GROQ)
-- Features: PDF chat, summarization, flashcards, quizzes, personal tutor mode
-
-### 🔹 [CloudHub — Secure File Storage](https://shahid-cloud-file-storage.vercel.app/)
-A secure cloud file storage system with authentication, encrypted uploads, and AWS S3 integration.
-
-- Node.js, Express, MongoDB, AWS S3
-- JWT authentication and REST APIs
-
-### 🔹 AI Chatbots & Assistants
-(See my repos) — chatbots built using LangChain, OpenAI/Claude, and vector retrieval for document Q&A and automation.
-
-- Vector DBs (Pinecone & ChromaDB), FastAPI backends, prompt templates
+### 🔹 [AI Chatbots](https://github.com/akhi-shxhid) – *LLM Assistants*
+- LangChain + Claude + Pinecone/ChromaDB  
+- Context memory, knowledge Q&A, automation  
 
 ---
 
 ## 🏅 Certifications
-- AWS Certified Cloud Practitioner — May 2024  
-- IBM AI Fundamentals — Jan 2025
+- 📜 AWS Certified Cloud Practitioner (May 2024)  
+- 📜 IBM AI Fundamentals (Jan 2025)  
 
 ---
 
-## 📈 GitHub & Stats
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhi-shxhid&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhi-shxhid&layout=compact&theme=radical)
-
----
-
-## 🤝 Let's Connect
-- Portfolio: https://shahid-topaz.vercel.app  
-- Email: shahidafrid97419@gmail.com  
-- GitHub: https://github.com/akhi-shxhid  
-- LinkedIn: (add your LinkedIn URL here)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhi-shxhid&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhi-shxhid&layout=compact&theme=radical" height="165"/>
+</p>
 
 ---
 
-## 🛠 How to customize the typing SVG
-1. Visit the demo: https://readme-typing-svg.demolab.com/demo/  
-2. Replace the `?lines=` values in the `<img>` URL. Use `;` to separate lines and `+` or `%20` for spaces.  
-3. Adjust `width` and `height` to fit your layout.  
+## 🤝 Connect with Me
+<p align="center">
+  <a href="mailto:shahidafrid97419@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  <a href="https://github.com/akhi-shxhid"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <a href="https://shahid-topaz.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="40"/></a>
+</p>
 
-Example:
-```md
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Line+One;Line+Two&width=600&height=50)
+---
+
+<p align="center"><i>"Code is the tool. Intelligence is the engine. Impact is the goal."</i></p>
