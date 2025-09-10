@@ -66,9 +66,10 @@
 - Node.js, Express, MongoDB, AWS S3  
 - JWT authentication, encrypted uploads  
 
-### 🔹 [AI Chatbots](https://github.com/akhi-shxhid) – *LLM Assistants*
-- LangChain + Claude + Pinecone/ChromaDB  
-- Context memory, knowledge Q&A, automation  
+### 🔹 [Forms.io](https://formsio.vercel.app/) – *Modern Form Builder*
+- A powerful, modern form builder application with a brutalist design aesthetic.
+- Built with React, TypeScript, and Supabase for creating, sharing,
+-  managing forms with real-time validation and response collection.
 
 ---
 
