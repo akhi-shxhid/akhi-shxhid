@@ -133,7 +133,7 @@ Quote-first landing pages for IFM, Siemens and SMC, each with its own identity, 
 
 <p align="center"><b>Main · <a href="https://github.com/akhi-shxhid">@akhi-shxhid</a> · 2025</b></p>
 <p align="center">
-  <img src="https://commitpulse.vercel.app/api/streak?user=akhi-shxhid&year=2025" width="95%" alt="2025 contributions for akhi-shxhid" />
+  <img src="https://raw.githubusercontent.com/akhi-shxhid/akhi-shxhid/main/assets/heatmap-2025.svg" width="95%" alt="2025 contribution heat map for akhi-shxhid" />
 </p>
 <p align="center">
   <sub><a href="https://github.com/akhi-shxhid?tab=overview&from=2025-01-01&to=2025-12-31">View the full 2025 graph on GitHub →</a></sub>
