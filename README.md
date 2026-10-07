@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/akhi-shxhid"><img src="https://img.shields.io/badge/Main-@akhi--shxhid-181717?style=flat-square&logo=github" alt="Main account" /></a>
   <a href="https://github.com/shxhid-dev"><img src="https://img.shields.io/badge/Work-@shxhid--dev-181717?style=flat-square&logo=github" alt="Work account" /></a>
+  <a href="https://github.com/akhi-shxhid"><img src="https://img.shields.io/badge/Main-@akhi--shxhid-181717?style=flat-square&logo=github" alt="Main account" /></a>
   <img src="https://komarev.com/ghpvc/?username=akhi-shxhid&label=Profile+views&color=3B5BFF&style=flat-square" alt="Profile views" />
 </p>
 
@@ -32,7 +32,7 @@ Software developer in Bengaluru, building and running the systems an industrial 
 
 **Portfolio with screenshots and written case studies → [shxhid.is-a.dev](https://shxhid.is-a.dev)**
 
-> 🗂️ **Two accounts:** personal projects live on [**@akhi-shxhid**](https://github.com/akhi-shxhid), production work lives on [**@shxhid-dev**](https://github.com/shxhid-dev).
+> 🗂️ **Two accounts:** production work lives on [**@shxhid-dev**](https://github.com/shxhid-dev), personal projects live on [**@akhi-shxhid**](https://github.com/akhi-shxhid).
 
 ---
 
@@ -124,34 +124,33 @@ Quote-first landing pages for IFM, Siemens and SMC, each with its own identity, 
 
 ## Activity
 
-### 🟩 Contribution heat map — both accounts
+### 🟩 Contribution heat maps
 
-<p align="center"><b>Main · <a href="https://github.com/akhi-shxhid">@akhi-shxhid</a></b></p>
-<p align="center">
-  <img src="https://ghchart.rshah.org/3B5BFF/akhi-shxhid" width="95%" alt="Contribution heat map for akhi-shxhid" />
-</p>
-
-<p align="center"><b>Work · <a href="https://github.com/shxhid-dev">@shxhid-dev</a></b></p>
+<p align="center"><b>Work · <a href="https://github.com/shxhid-dev">@shxhid-dev</a> · last 12 months</b></p>
 <p align="center">
   <img src="https://ghchart.rshah.org/00B894/shxhid-dev" width="95%" alt="Contribution heat map for shxhid-dev" />
 </p>
 
-### 📊 Activity graph
-
+<p align="center"><b>Main · <a href="https://github.com/akhi-shxhid">@akhi-shxhid</a> · 2025</b></p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhi-shxhid&bg_color=0d1117&color=3B5BFF&line=3B5BFF&point=ffffff&area=true&hide_border=true&title_color=3B5BFF" width="49%" alt="Activity graph for akhi-shxhid" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shxhid-dev&bg_color=0d1117&color=00B894&line=00B894&point=ffffff&area=true&hide_border=true&title_color=00B894" width="49%" alt="Activity graph for shxhid-dev" />
+  <img src="https://commitpulse.vercel.app/api/streak?user=akhi-shxhid&year=2025" width="95%" alt="2025 contributions for akhi-shxhid" />
+</p>
+<p align="center">
+  <sub><a href="https://github.com/akhi-shxhid?tab=overview&from=2025-01-01&to=2025-12-31">View the full 2025 graph on GitHub →</a></sub>
 </p>
 
 ### 📈 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhi-shxhid&show_icons=true&hide_border=true&theme=github_dark&title_color=3B5BFF&icon_color=3B5BFF" height="160" alt="Stats for akhi-shxhid" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhi-shxhid&layout=compact&hide_border=true&theme=github_dark&title_color=3B5BFF" height="160" alt="Top languages for akhi-shxhid" />
-</p>
+<p align="center"><b>Work · @shxhid-dev</b></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shxhid-dev&show_icons=true&hide_border=true&theme=github_dark&title_color=00B894&icon_color=00B894" height="160" alt="Stats for shxhid-dev" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxhid-dev&layout=compact&hide_border=true&theme=github_dark&title_color=00B894" height="160" alt="Top languages for shxhid-dev" />
+</p>
+
+<p align="center"><b>Main · @akhi-shxhid · 2025</b></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhi-shxhid&show_icons=true&hide_border=true&theme=github_dark&title_color=3B5BFF&icon_color=3B5BFF&include_all_commits=true&commits_year=2025" height="160" alt="2025 stats for akhi-shxhid" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhi-shxhid&layout=compact&hide_border=true&theme=github_dark&title_color=3B5BFF" height="160" alt="Top languages for akhi-shxhid" />
 </p>
 
 ---
